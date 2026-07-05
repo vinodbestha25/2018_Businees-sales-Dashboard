@@ -1,2 +1,2 @@
 # 2018_Businees-sales-Dashboard
-SAles dashboard for Business into different typesof categories, diplaying top sales in diff states, top customers,  category wise profits etc.,
+A 2018 Business Sales Dashboard which is into different types of sales categories, diplaying top sales in diff states, top customers,  category wise profits etc.,
